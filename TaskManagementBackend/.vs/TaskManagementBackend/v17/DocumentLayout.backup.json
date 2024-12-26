@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\tasks.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:tasks.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|c:\\users\\aryam\\desktop\\taskmanagement\\taskmanagementbackend\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7080FCC7-1EBB-4862-BB4E-C60EDCB40F37}|TaskManagementBackend.csproj|solutionrelative:data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tasks.db",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\tasks.db",
+              "RelativeDocumentMoniker": "tasks.db",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\tasks.db",
+              "RelativeToolTip": "tasks.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAN5SURBVFhH7ZddTFtVHMB/mJZSDGtZ2QZoByMbk304pgO06AbqSKaZyaLJojgz5cGY6BKFpmHRzMUoTpy\u002B\u002BeCrT4tfMS4sMUGSiclGVT4CLchMOyEp4SsNpS1t77nXB5Csp0Av6wgv/pLz8j///zm/c/85N/fCZqJpWpYcA2h1OX2glcpxfWT5FZVT7e3tffLMSqwi0KJd/PBjOayLC\u002B\u002Bfx2w2B0PhhXo9EvfJgXvB2dearHn353Q5nc5KeU5mQwQKi4p1S2yIAOuQ2DABdEpsqAA6JNZ9Czy3buMbC2DKNnKs5hBGgyFp/ovLnxIMBpNidxBsu/RZvhxModXVosXj8eURiUS06dmgFo/HtWtdN7RvO7q0b652arfHA1o4HNHGA5NJ\u002BauNVleLJu\u002BlqwW/uge53tNPZ/cfzIfDCCEQQtDTO8TVzm5\u002B6e5hcnpWLtNFWoGJqVnCkQiqEITCEYQqUJcEFuIxYrEYqirwjvrkUl2kFbDlb2GbzYoiBEIoFBbYeL7hSaoOVSCURRGzycTBit1yqS7SChgNBvaW7Vw\u002BddEOG0aDgVJ78XIrthVY2Wq1yKW6SCsQjizwm7sfIQSqKhjw/IV31Ie7bxBVLLZj5JafoZFRuVQX6QWiUULzYVR18bRzoXncfYMMjfyNWIqpqmBqZtWrtyZpBbbb8tlfXkaOycQue/FiKxQFVQisljzsDxSSm5PDvvIybvb2Mx6YkJdYk7QCAAcrdnPqRD2OqkosW/KWe//4ow/TUFdL44sn8f0zxtdXvuPzL78CIBKJysusSPJrTAeHDzyEb2wcTdUo2rGdH679zM3fexFCQUkkiEWjXGhrZ2pyCte75yixPygvkYSuJ3AnJfZi6hzV1D9RA8AN95\u002BEQiGyjUZePf0Cjx05jM/vZ25uDo93WC5PYd0CMk2Np1GUBDWPVOKoPkLTmZfJt1go31PGiYZn5PQUMha48v2PKIkE3uERpmdm8HiHmQgEGOgf4KeODjk9hYwFTNlGRCLB4JCHt5tdXPzoE4SSQFEUcs25cnoKGQu8/spLuN45x/Gnji1tnOCD987T6mzm6fo6OT2FjAUKbFup2LuHo7UOjtY6OHumkQP791FTXSWnrkjGAv9RWrKTt958g5PPPStPrck9E7hb/hfYdIFVvoqbfZB1lz\u002Bna6H52y5d3iVHN5V/AfK3tNgdnL6eAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-12-26T08:29:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-25T15:55:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T14:39:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T14:38:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:38:27.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:38:08.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:36:52.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Data\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\Aryam\\Desktop\\TaskManagement\\TaskManagementBackend\\Data\\TaskContext.cs",
+              "RelativeToolTip": "Data\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:37:42.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
